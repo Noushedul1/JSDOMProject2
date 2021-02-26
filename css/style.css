@@ -1,0 +1,59 @@
+@import url(bootstrap.min.css);
+@import url(all.min.css);
+/*@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* body{
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+} */
+/* Start for project  */
+#box{
+	margin-top: 30px;
+}
+#button{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin-top: 30px;
+}
+#button a{
+	text-decoration: none;
+}
+.bt{
+	border: 1px solid black;
+	padding: 10px;
+}
+.btn1{
+	background-color: green;
+	color: white;
+}
+.btn2{
+	background-color: black;
+	color: white;
+}
+.btn3{
+	background-color: blue;
+	color: white;
+}
+.btn4{
+	background-color: orange;
+	color: white;
+}
+.btn5{
+	background-color: purple;
+	color: white;
+}
+.btn6{
+	background-color: yellow;
+	color: black;
+}
+.btn7{
+	background-color: red;
+	color: white;
+}
+/* End for project  */
